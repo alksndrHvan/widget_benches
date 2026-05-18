@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Widget test bench</title>
+    <script>
+      window.ticketscloud_url = 'https://stage.freetc.net';
+    </script>
+    <script src="https://stage.freetc.net/static/scripts/widget/tcwidget.js"></script>
+    <script type="module" crossorigin src="./assets/index-BiyXmxcp.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CqHApLge.css">
+  </head>
+  <body>
+    <main class="shell" x-data="widgetBench()" x-init="init()" x-cloak>
+      <header class="topbar">
+        <div>
+          <h1>Widget test bench</h1>
+          <div class="meta" x-text="partnerSummary"></div>
+        </div>
+
+        <div class="toolbar">
+          <button
+            class="theme-toggle"
+            type="button"
+            x-bind:aria-label="themeButtonAriaLabel"
+            x-bind:aria-pressed="isDarkTheme"
+            x-bind:title="themeButtonAriaLabel"
+            x-on:click="toggleTheme()"
+            x-text="themeButtonIcon"
+          ></button>
+
+          <nav class="tabs" aria-label="Widget tabs">
+            <template x-for="tab in tabs" :key="tab.key">
+              <button
+                class="tab"
+                type="button"
+                x-bind:data-active="activeTab === tab.key"
+                x-on:click="setActiveTab(tab.key)"
+                x-text="tab.label"
+              ></button>
+            </template>
+          </nav>
+
+          <nav
+            class="scheme-tabs"
+            aria-label="Widget scheme tabs"
+            x-show="activeTab !== 'stub' && !isLoading && !loadError"
+          >
+            <template x-for="scheme in schemeTabs" :key="scheme.key">
+              <button
+                class="scheme-tab"
+                type="button"
+                x-bind:data-active="activeScheme === scheme.key"
+                x-on:click="setActiveScheme(scheme.key)"
+                x-text="scheme.label"
+              ></button>
+            </template>
+          </nav>
+        </div>
+      </header>
+
+      <section class="empty" x-show="isLoading">Загрузка данных</section>
+      <section class="empty empty-error" x-show="loadError" x-text="loadError"></section>
+
+      <section class="widget-list" x-show="!isLoading && !loadError && activeWidgets.length > 0">
+        <template x-for="widget in activeWidgets" :key="widget.key">
+          <article class="widget-panel">
+            <div class="widget-header">
+              <div>
+                <h2 class="widget-title" x-text="widget.title"></h2>
+                <div class="widget-subtitle">
+                  <span x-text="widget.entityName"></span>
+                  <span> · </span>
+                  <span x-text="widget.eventId || widget.metaEventId"></span>
+                </div>
+                <div class="widget-details" x-show="widget.details?.length">
+                  <template x-for="detail in widget.details" :key="detail">
+                    <span class="widget-detail" x-text="detail"></span>
+                  </template>
+                </div>
+              </div>
+
+              <div class="actions">
+                <a
+                  class="action action-link"
+                  target="_blank"
+                  rel="noreferrer"
+                  x-bind:href="getEmbeddedPageLink(widget)"
+                >
+                  Встроенный
+                </a>
+                <button
+                  class="action"
+                  type="button"
+                  x-bind="getPopupInstallAttrs(widget)"
+                  x-bind:data-tc-theme="isDarkTheme ? 'dark' : ''"
+                >
+                  Popup
+                </button>
+                <button
+                  class="action"
+                  type="button"
+                  x-on:click="copyLink(widget)"
+                  x-text="getCopyButtonText(widget)"
+                ></button>
+              </div>
+            </div>
+          </article>
+        </template>
+      </section>
+
+      <!-- prettier-ignore -->
+      <section
+        class="empty"
+        x-show="!isLoading && !loadError && activeWidgets.length === 0"
+      >
+        Нет данных
+      </section>
+    </main>
+
+  </body>
+</html>

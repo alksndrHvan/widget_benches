@@ -1,0 +1,885 @@
+{
+  "partner": {
+    "id": "6a0ab2654668a9f409fc0cf8",
+    "name": "Виджеты stage 1779085923648",
+    "userEmail": "widget_stage_1779085923648@test0809.ru",
+    "userPassword": "123123qQ!",
+    "createdAt": "2026-05-18T06:32:06.296Z"
+  },
+  "updatedAt": "2026-05-18T14:55:42.748Z",
+  "widgets": {
+    "stub:single_event_finished": {
+      "target": "stub:single_event_finished",
+      "tab": "stub",
+      "title": "Заглушка single: мероприятие прошло",
+      "entityName": "Виджет. Заглушка single мероприятие прошло 1779114909124",
+      "eventId": "6a0b239d3ee5795452271606",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b239d3ee5795452271606&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b239d3ee5795452271606",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b239d3ee5795452271606\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b239d3ee5795452271606\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-single-event-finished.html"
+      },
+      "createdAt": "2026-05-18T14:35:11.914Z",
+      "details": [
+        "Ожидаемый текст: Мероприятие прошло."
+      ]
+    },
+    "stub:single_stop_sale": {
+      "target": "stub:single_stop_sale",
+      "tab": "stub",
+      "title": "Заглушка single: продажи остановлены",
+      "entityName": "Виджет. Заглушка single продажи остановлены 1779114912070",
+      "eventId": "6a0b23a03ee579545227160d",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b23a03ee579545227160d&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b23a03ee579545227160d",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23a03ee579545227160d\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23a03ee579545227160d\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-single-stop-sale.html"
+      },
+      "createdAt": "2026-05-18T14:35:14.651Z",
+      "details": [
+        "Ожидаемый текст: Продажи временно остановлены организатором."
+      ]
+    },
+    "stub:single_waiting_sale": {
+      "target": "stub:single_waiting_sale",
+      "tab": "stub",
+      "title": "Заглушка single: продажи не начались",
+      "entityName": "Виджет. Заглушка single продажи не начались 1779114914828",
+      "eventId": "6a0b23a33ee5795452271614",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b23a33ee5795452271614&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b23a33ee5795452271614",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23a33ee5795452271614\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23a33ee5795452271614\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-single-waiting-sale.html"
+      },
+      "createdAt": "2026-05-18T14:35:16.938Z",
+      "details": [
+        "Ожидаемый текст: Продажи еще не начались.",
+        "Старт продаж: 2035-05-18T14:35:14.828Z"
+      ]
+    },
+    "stub:single_work_on_server": {
+      "target": "stub:single_work_on_server",
+      "tab": "stub",
+      "title": "Заглушка single: ошибка установки",
+      "entityName": "Виджет. Заглушка single ошибка установки 1779114926705",
+      "eventId": "6a0b23afbf1e77aed42d30a0",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx&lang=ru&event=6a0b23afbf1e77aed42d30a0&s=1&r=1&org=6a0ab2654668a9f409fc0cf8&city=524901&category=592841f8515e35002dead914&tags=592841f8515e35002dead918%2CHardcore",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx",
+        "eventId": "6a0b23afbf1e77aed42d30a0",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23afbf1e77aed42d30a0\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23afbf1e77aed42d30a0\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-single-work-on-server.html"
+      },
+      "createdAt": "2026-05-18T14:35:28.654Z",
+      "details": [
+        "Ожидаемый текст: Ошибка установки кода виджета.",
+        "Token намеренно испорчен"
+      ]
+    },
+    "stub:meta_event_finished": {
+      "target": "stub:meta_event_finished",
+      "tab": "stub",
+      "title": "Заглушка meta: мероприятие прошло",
+      "entityName": "Виджет. Заглушка meta мероприятие прошло 1779114928781",
+      "eventId": "6a0b23b27d0615edacb6f843",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b23b27d0615edacb6f843&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b23b27d0615edacb6f843",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23b27d0615edacb6f843\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23b27d0615edacb6f843\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-meta-event-finished.html"
+      },
+      "createdAt": "2026-05-18T14:35:32.814Z",
+      "details": [
+        "Ожидаемый текст: Мероприятие прошло.",
+        "Открывается дочернее событие meta-расписания"
+      ],
+      "metaEventId": "6a0b23b1bf1e77aed42d30a6"
+    },
+    "stub:meta_stop_sale": {
+      "target": "stub:meta_stop_sale",
+      "tab": "stub",
+      "title": "Заглушка meta: продажи остановлены",
+      "entityName": "Виджет. Заглушка meta продажи остановлены 1779114932990",
+      "metaEventId": "6a0b23b5bf1e77aed42d30ab",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b23b5bf1e77aed42d30ab&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b23b5bf1e77aed42d30ab",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23b5bf1e77aed42d30ab\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23b5bf1e77aed42d30ab\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-meta-stop-sale.html"
+      },
+      "createdAt": "2026-05-18T14:35:37.304Z",
+      "details": [
+        "Ожидаемый текст: Продажи временно остановлены организатором."
+      ]
+    },
+    "stub:meta_waiting_sale": {
+      "target": "stub:meta_waiting_sale",
+      "tab": "stub",
+      "title": "Заглушка meta: продажи не начались",
+      "entityName": "Виджет. Заглушка meta продажи не начались 1779114937487",
+      "eventId": "6a0b23bb7d0615edacb6f924",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b23bb7d0615edacb6f924&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b23bb7d0615edacb6f924",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23bb7d0615edacb6f924\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23bb7d0615edacb6f924\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-meta-waiting-sale.html"
+      },
+      "createdAt": "2026-05-18T14:35:41.071Z",
+      "details": [
+        "Ожидаемый текст: Продажи еще не начались.",
+        "Старт продаж: 2035-05-18T14:35:37.487Z",
+        "Открывается дочернее событие meta-расписания"
+      ],
+      "metaEventId": "6a0b23babf1e77aed42d30b0"
+    },
+    "stub:meta_sold_out": {
+      "target": "stub:meta_sold_out",
+      "tab": "stub",
+      "title": "Заглушка meta: все билеты проданы",
+      "entityName": "Виджет. Заглушка meta sold out 1779114941217",
+      "eventId": "6a0b23becf67649f2fb6f7de",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b23becf67649f2fb6f7de&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b23becf67649f2fb6f7de",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23becf67649f2fb6f7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23becf67649f2fb6f7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-meta-sold-out.html"
+      },
+      "createdAt": "2026-05-18T14:35:46.894Z",
+      "details": [
+        "Ожидаемый текст: Все билеты проданы.",
+        "Открывается дочернее событие meta-расписания"
+      ],
+      "metaEventId": "6a0b23bdbf1e77aed42d30b5"
+    },
+    "stub:meta_work_on_server": {
+      "target": "stub:meta_work_on_server",
+      "tab": "stub",
+      "title": "Заглушка meta: ошибка установки",
+      "entityName": "Виджет. Заглушка meta ошибка установки 1779114947042",
+      "metaEventId": "6a0b23c3bf1e77aed42d30ba",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx&lang=ru&meta_event=6a0b23c3bf1e77aed42d30ba&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx",
+        "eventId": "6a0b23c3bf1e77aed42d30ba",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23c3bf1e77aed42d30ba\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23c3bf1e77aed42d30ba\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-meta-work-on-server.html"
+      },
+      "createdAt": "2026-05-18T14:35:51.619Z",
+      "details": [
+        "Ожидаемый текст: Ошибка установки кода виджета.",
+        "Token намеренно испорчен"
+      ]
+    },
+    "stub:single_sold_out": {
+      "target": "stub:single_sold_out",
+      "tab": "stub",
+      "title": "Заглушка single: все билеты проданы",
+      "entityName": "Виджет. Заглушка single sold out 1779114917072",
+      "eventId": "6a0b23a53ee579545227161a",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b23a53ee579545227161a&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b23a53ee579545227161a",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23a53ee579545227161a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23a53ee579545227161a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-single-sold-out.html"
+      },
+      "createdAt": "2026-05-18T14:35:26.537Z",
+      "details": [
+        "Ожидаемый текст: Все билеты проданы."
+      ]
+    },
+    "single_no_scheme:default": {
+      "target": "single_no_scheme:default",
+      "tab": "single",
+      "scheme": "no_scheme",
+      "setting": "default",
+      "title": "Одиночное / Без схемы / Без настроек",
+      "entityName": "Widget single_no_scheme_default 1779114391313",
+      "eventId": "6a0b2197bf1e77aed42c9ba3",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b2197bf1e77aed42c9ba3&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b2197bf1e77aed42c9ba3",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b2197bf1e77aed42c9ba3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2197bf1e77aed42c9ba3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-no-scheme-default.html"
+      },
+      "createdAt": "2026-05-18T14:26:34.516Z",
+      "details": [
+        "Категории: Стандарт, VIP, Free"
+      ]
+    },
+    "single_no_scheme:custom_fields": {
+      "target": "single_no_scheme:custom_fields",
+      "tab": "single",
+      "scheme": "no_scheme",
+      "setting": "custom_fields",
+      "title": "Одиночное / Без схемы / Дополнительные поля",
+      "entityName": "Widget single_no_scheme_custom_fields 1779114394671",
+      "eventId": "6a0b219bbf1e77aed42c9bb3",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b219bbf1e77aed42c9bb3&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b219bbf1e77aed42c9bb3",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b219bbf1e77aed42c9bb3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b219bbf1e77aed42c9bb3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-no-scheme-custom-fields.html"
+      },
+      "createdAt": "2026-05-18T14:26:38.817Z",
+      "details": [
+        "Категории: Стандарт, VIP, Free",
+        "Поля: order/ticket, все типы"
+      ]
+    },
+    "single_no_scheme:promocode": {
+      "target": "single_no_scheme:promocode",
+      "tab": "single",
+      "scheme": "no_scheme",
+      "setting": "promocode",
+      "title": "Одиночное / Без схемы / Промокоды",
+      "entityName": "Widget single_no_scheme_promocode 1779114398977",
+      "eventId": "6a0b219fbf1e77aed42c9bdc",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b219fbf1e77aed42c9bdc&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b219fbf1e77aed42c9bdc",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b219fbf1e77aed42c9bdc\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b219fbf1e77aed42c9bdc\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-no-scheme-promocode.html"
+      },
+      "createdAt": "2026-05-18T14:26:42.497Z",
+      "details": [
+        "Категории: Стандарт, VIP, Free",
+        "Промокод: WIDGET10398977",
+        "Скидка: 10%"
+      ]
+    },
+    "single_no_scheme:tariffs": {
+      "target": "single_no_scheme:tariffs",
+      "tab": "single",
+      "scheme": "no_scheme",
+      "setting": "tariffs",
+      "title": "Одиночное / Без схемы / Тарифы",
+      "entityName": "Widget single_no_scheme_tariffs 1779114402649",
+      "eventId": "6a0b21a3bf1e77aed42c9bed",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21a3bf1e77aed42c9bed&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21a3bf1e77aed42c9bed",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21a3bf1e77aed42c9bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21a3bf1e77aed42c9bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-no-scheme-tariffs.html"
+      },
+      "createdAt": "2026-05-18T14:26:46.883Z",
+      "details": [
+        "Категории: Стандарт, VIP, Free",
+        "Тарифы: Ранняя покупка -20% 402649, Специальный -300 402649, Премиум +500 402649"
+      ]
+    },
+    "single_scheme:default": {
+      "target": "single_scheme:default",
+      "tab": "single",
+      "scheme": "scheme",
+      "setting": "default",
+      "title": "Одиночное / Со схемой / Без настроек",
+      "entityName": "Widget single_scheme_default 1779114407059",
+      "eventId": "6a0b21a7bf1e77aed42c9c08",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21a7bf1e77aed42c9c08&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21a7bf1e77aed42c9c08",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21a7bf1e77aed42c9c08\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21a7bf1e77aed42c9c08\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-scheme-default.html"
+      },
+      "createdAt": "2026-05-18T14:26:49.499Z",
+      "details": [
+        "Схема: Клуб RED"
+      ]
+    },
+    "single_scheme:custom_fields": {
+      "target": "single_scheme:custom_fields",
+      "tab": "single",
+      "scheme": "scheme",
+      "setting": "custom_fields",
+      "title": "Одиночное / Со схемой / Дополнительные поля",
+      "entityName": "Widget single_scheme_custom_fields 1779114409668",
+      "eventId": "6a0b21aabf1e77aed42c9ce7",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21aabf1e77aed42c9ce7&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21aabf1e77aed42c9ce7",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21aabf1e77aed42c9ce7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21aabf1e77aed42c9ce7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-scheme-custom-fields.html"
+      },
+      "createdAt": "2026-05-18T14:26:53.055Z",
+      "details": [
+        "Схема: Клуб RED",
+        "Поля: order/ticket, все типы"
+      ]
+    },
+    "single_scheme:promocode": {
+      "target": "single_scheme:promocode",
+      "tab": "single",
+      "scheme": "scheme",
+      "setting": "promocode",
+      "title": "Одиночное / Со схемой / Промокоды",
+      "entityName": "Widget single_scheme_promocode 1779114413230",
+      "eventId": "6a0b21adbf1e77aed42c9ddf",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21adbf1e77aed42c9ddf&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21adbf1e77aed42c9ddf",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21adbf1e77aed42c9ddf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21adbf1e77aed42c9ddf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-scheme-promocode.html"
+      },
+      "createdAt": "2026-05-18T14:26:55.860Z",
+      "details": [
+        "Схема: Клуб RED",
+        "Промокод: WIDGET10413230",
+        "Скидка: 10%"
+      ]
+    },
+    "single_scheme:tariffs": {
+      "target": "single_scheme:tariffs",
+      "tab": "single",
+      "scheme": "scheme",
+      "setting": "tariffs",
+      "title": "Одиночное / Со схемой / Тарифы",
+      "entityName": "Widget single_scheme_tariffs 1779114415999",
+      "eventId": "6a0b21b0bf1e77aed42c9ebf",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21b0bf1e77aed42c9ebf&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21b0bf1e77aed42c9ebf",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21b0bf1e77aed42c9ebf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21b0bf1e77aed42c9ebf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-scheme-tariffs.html"
+      },
+      "createdAt": "2026-05-18T14:26:59.828Z",
+      "details": [
+        "Схема: Клуб RED",
+        "Тарифы: Ранняя покупка -20% 415999, Специальный -300 415999, Премиум +500 415999"
+      ]
+    },
+    "single_complex_scheme:default": {
+      "target": "single_complex_scheme:default",
+      "tab": "single",
+      "scheme": "complex_scheme",
+      "setting": "default",
+      "title": "Одиночное / Со сложной схемой / Без настроек",
+      "entityName": "Widget single_complex_scheme_default 1779114419988",
+      "eventId": "6a0b21b4bf1e77aed42c9fa9",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21b4bf1e77aed42c9fa9&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21b4bf1e77aed42c9fa9",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21b4bf1e77aed42c9fa9\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21b4bf1e77aed42c9fa9\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-complex-scheme-default.html"
+      },
+      "createdAt": "2026-05-18T14:27:14.005Z",
+      "details": [
+        "Схема: Мегаспорт"
+      ]
+    },
+    "single_complex_scheme:custom_fields": {
+      "target": "single_complex_scheme:custom_fields",
+      "tab": "single",
+      "scheme": "complex_scheme",
+      "setting": "custom_fields",
+      "title": "Одиночное / Со сложной схемой / Дополнительные поля",
+      "entityName": "Widget single_complex_scheme_custom_fields 1779114434166",
+      "eventId": "6a0b21c2bf1e77aed42cc3b7",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21c2bf1e77aed42cc3b7&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21c2bf1e77aed42cc3b7",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21c2bf1e77aed42cc3b7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21c2bf1e77aed42cc3b7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-complex-scheme-custom-fields.html"
+      },
+      "createdAt": "2026-05-18T14:27:28.290Z",
+      "details": [
+        "Схема: Мегаспорт",
+        "Поля: order/ticket, все типы"
+      ]
+    },
+    "single_complex_scheme:promocode": {
+      "target": "single_complex_scheme:promocode",
+      "tab": "single",
+      "scheme": "complex_scheme",
+      "setting": "promocode",
+      "title": "Одиночное / Со сложной схемой / Промокоды",
+      "entityName": "Widget single_complex_scheme_promocode 1779114448454",
+      "eventId": "6a0b21d1bf1e77aed42ce7de",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21d1bf1e77aed42ce7de&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21d1bf1e77aed42ce7de",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21d1bf1e77aed42ce7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21d1bf1e77aed42ce7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-complex-scheme-promocode.html"
+      },
+      "createdAt": "2026-05-18T14:27:43.070Z",
+      "details": [
+        "Схема: Мегаспорт",
+        "Промокод: WIDGET10448454",
+        "Скидка: 10%"
+      ]
+    },
+    "single_complex_scheme:tariffs": {
+      "target": "single_complex_scheme:tariffs",
+      "tab": "single",
+      "scheme": "complex_scheme",
+      "setting": "tariffs",
+      "title": "Одиночное / Со сложной схемой / Тарифы",
+      "entityName": "Widget single_complex_scheme_tariffs 1779114463239",
+      "eventId": "6a0b21dfbf1e77aed42d0bed",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&event=6a0b21dfbf1e77aed42d0bed&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21dfbf1e77aed42d0bed",
+        "isMeta": false,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21dfbf1e77aed42d0bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21dfbf1e77aed42d0bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/single-complex-scheme-tariffs.html"
+      },
+      "createdAt": "2026-05-18T14:27:58.374Z",
+      "details": [
+        "Схема: Мегаспорт",
+        "Тарифы: Ранняя покупка -20% 463239, Специальный -300 463239, Премиум +500 463239"
+      ]
+    },
+    "meta_no_scheme:default": {
+      "target": "meta_no_scheme:default",
+      "tab": "meta",
+      "scheme": "no_scheme",
+      "setting": "default",
+      "title": "Мета / Без схемы / Без настроек",
+      "entityName": "Виджет. meta_no_scheme_default 1779114478548",
+      "metaEventId": "6a0b21efbf1e77aed42d3006",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b21efbf1e77aed42d3006&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21efbf1e77aed42d3006",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21efbf1e77aed42d3006\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21efbf1e77aed42d3006\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-no-scheme-default.html"
+      },
+      "createdAt": "2026-05-18T14:28:13.039Z",
+      "details": [
+        "Расписание: 14 дней, раз в неделю",
+        "Категории: Стандарт, VIP, Free по 50 билетов"
+      ]
+    },
+    "meta_no_scheme:custom_fields": {
+      "target": "meta_no_scheme:custom_fields",
+      "tab": "meta",
+      "scheme": "no_scheme",
+      "setting": "custom_fields",
+      "title": "Мета / Без схемы / Дополнительные поля",
+      "entityName": "Виджет. meta_no_scheme_custom_fields 1779114493197",
+      "metaEventId": "6a0b21fdbf1e77aed42d3014",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b21fdbf1e77aed42d3014&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b21fdbf1e77aed42d3014",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b21fdbf1e77aed42d3014\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21fdbf1e77aed42d3014\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-no-scheme-custom-fields.html"
+      },
+      "createdAt": "2026-05-18T14:28:24.335Z",
+      "details": [
+        "Поля: order/ticket, все типы",
+        "Категории: Стандарт, VIP, Free по 50 билетов"
+      ]
+    },
+    "meta_no_scheme:promocode": {
+      "target": "meta_no_scheme:promocode",
+      "tab": "meta",
+      "scheme": "no_scheme",
+      "setting": "promocode",
+      "title": "Мета / Без схемы / Промокоды",
+      "entityName": "Виджет. meta_no_scheme_promocode 1779114504517",
+      "metaEventId": "6a0b22093ee5795452271552",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b22093ee5795452271552&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b22093ee5795452271552",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b22093ee5795452271552\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22093ee5795452271552\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-no-scheme-promocode.html"
+      },
+      "createdAt": "2026-05-18T14:28:32.687Z",
+      "details": [
+        "Промокод: METAWIDGET10504517",
+        "Скидка: 10%",
+        "Категории: Стандарт, VIP, Free по 50 билетов"
+      ]
+    },
+    "meta_no_scheme:tariffs": {
+      "target": "meta_no_scheme:tariffs",
+      "tab": "meta",
+      "scheme": "no_scheme",
+      "setting": "tariffs",
+      "title": "Мета / Без схемы / Тарифы",
+      "entityName": "Виджет. meta_no_scheme_tariffs 1779114512855",
+      "metaEventId": "6a0b2211bf1e77aed42d3037",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b2211bf1e77aed42d3037&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b2211bf1e77aed42d3037",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b2211bf1e77aed42d3037\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2211bf1e77aed42d3037\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-no-scheme-tariffs.html"
+      },
+      "createdAt": "2026-05-18T14:28:42.406Z",
+      "details": [
+        "Тарифы: Ранняя покупка -20% 512855, Специальный -300 512855, Премиум +500 512855",
+        "Категории: Стандарт, VIP, Free по 50 билетов"
+      ]
+    },
+    "meta_no_scheme:multi_sessions": {
+      "target": "meta_no_scheme:multi_sessions",
+      "tab": "meta",
+      "scheme": "no_scheme",
+      "setting": "multi_sessions",
+      "title": "Мета / Без схемы / Несколько сеансов",
+      "entityName": "Виджет. meta_no_scheme_multi_sessions 1779114522547",
+      "metaEventId": "6a0b221bbf1e77aed42d3049",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b221bbf1e77aed42d3049&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b221bbf1e77aed42d3049",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b221bbf1e77aed42d3049\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b221bbf1e77aed42d3049\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-no-scheme-multi-sessions.html"
+      },
+      "createdAt": "2026-05-18T14:29:14.735Z",
+      "details": [
+        "Расписание: 2 дня недели, сеансы 12:00, 16:00, 20:00",
+        "Категории: Стандарт, VIP, Free по 50 билетов"
+      ]
+    },
+    "meta_scheme:default": {
+      "target": "meta_scheme:default",
+      "tab": "meta",
+      "scheme": "scheme",
+      "setting": "default",
+      "title": "Мета / Со схемой / Без настроек",
+      "entityName": "Виджет. meta_scheme_default 1779114554910",
+      "metaEventId": "6a0b223bbf1e77aed42d305b",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b223bbf1e77aed42d305b&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b223bbf1e77aed42d305b",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b223bbf1e77aed42d305b\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b223bbf1e77aed42d305b\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-scheme-default.html"
+      },
+      "createdAt": "2026-05-18T14:29:23.074Z",
+      "details": [
+        "Расписание: 14 дней, раз в неделю",
+        "Схема: Клуб RED"
+      ]
+    },
+    "meta_scheme:custom_fields": {
+      "target": "meta_scheme:custom_fields",
+      "tab": "meta",
+      "scheme": "scheme",
+      "setting": "custom_fields",
+      "title": "Мета / Со схемой / Дополнительные поля",
+      "entityName": "Виджет. meta_scheme_custom_fields 1779114563221",
+      "metaEventId": "6a0b22433ee579545227156c",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b22433ee579545227156c&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b22433ee579545227156c",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b22433ee579545227156c\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22433ee579545227156c\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-scheme-custom-fields.html"
+      },
+      "createdAt": "2026-05-18T14:29:32.341Z",
+      "details": [
+        "Поля: order/ticket, все типы",
+        "Схема: Клуб RED"
+      ]
+    },
+    "meta_scheme:promocode": {
+      "target": "meta_scheme:promocode",
+      "tab": "meta",
+      "scheme": "scheme",
+      "setting": "promocode",
+      "title": "Мета / Со схемой / Промокоды",
+      "entityName": "Виджет. meta_scheme_promocode 1779114572500",
+      "metaEventId": "6a0b224d3ee5795452271594",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b224d3ee5795452271594&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b224d3ee5795452271594",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b224d3ee5795452271594\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b224d3ee5795452271594\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-scheme-promocode.html"
+      },
+      "createdAt": "2026-05-18T14:29:47.290Z",
+      "details": [
+        "Промокод: METAWIDGET10572500",
+        "Скидка: 10%",
+        "Схема: Клуб RED"
+      ]
+    },
+    "meta_scheme:tariffs": {
+      "target": "meta_scheme:tariffs",
+      "tab": "meta",
+      "scheme": "scheme",
+      "setting": "tariffs",
+      "title": "Мета / Со схемой / Тарифы",
+      "entityName": "Виджет. meta_scheme_tariffs 1779114587437",
+      "metaEventId": "6a0b225c3ee57954522715a2",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b225c3ee57954522715a2&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b225c3ee57954522715a2",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b225c3ee57954522715a2\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b225c3ee57954522715a2\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-scheme-tariffs.html"
+      },
+      "createdAt": "2026-05-18T14:29:57.213Z",
+      "details": [
+        "Тарифы: Ранняя покупка -20% 587437, Специальный -300 587437, Премиум +500 587437",
+        "Схема: Клуб RED"
+      ]
+    },
+    "meta_scheme:multi_sessions": {
+      "target": "meta_scheme:multi_sessions",
+      "tab": "meta",
+      "scheme": "scheme",
+      "setting": "multi_sessions",
+      "title": "Мета / Со схемой / Несколько сеансов",
+      "entityName": "Виджет. meta_scheme_multi_sessions 1779114597395",
+      "metaEventId": "6a0b2265bf1e77aed42d306a",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b2265bf1e77aed42d306a&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b2265bf1e77aed42d306a",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b2265bf1e77aed42d306a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2265bf1e77aed42d306a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-scheme-multi-sessions.html"
+      },
+      "createdAt": "2026-05-18T14:30:38.383Z",
+      "details": [
+        "Расписание: 2 дня недели, сеансы 12:00, 16:00, 20:00",
+        "Схема: Клуб RED"
+      ]
+    },
+    "meta_complex_scheme:default": {
+      "target": "meta_complex_scheme:default",
+      "tab": "meta",
+      "scheme": "complex_scheme",
+      "setting": "default",
+      "title": "Мета / Со сложной схемой / Без настроек",
+      "entityName": "Виджет. meta_complex_scheme_default 1779114638549",
+      "metaEventId": "6a0b228fbf1e77aed42d3078",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b228fbf1e77aed42d3078&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b228fbf1e77aed42d3078",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b228fbf1e77aed42d3078\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b228fbf1e77aed42d3078\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-complex-scheme-default.html"
+      },
+      "createdAt": "2026-05-18T14:31:09.657Z",
+      "details": [
+        "Расписание: 14 дней, раз в неделю",
+        "Схема: Мегаспорт"
+      ]
+    },
+    "meta_complex_scheme:custom_fields": {
+      "target": "meta_complex_scheme:custom_fields",
+      "tab": "meta",
+      "scheme": "complex_scheme",
+      "setting": "custom_fields",
+      "title": "Мета / Со сложной схемой / Дополнительные поля",
+      "entityName": "Виджет. meta_complex_scheme_custom_fields 1779114669826",
+      "metaEventId": "6a0b22aebf1e77aed42d3087",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b22aebf1e77aed42d3087&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b22aebf1e77aed42d3087",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b22aebf1e77aed42d3087\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22aebf1e77aed42d3087\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-complex-scheme-custom-fields.html"
+      },
+      "createdAt": "2026-05-18T14:31:51.926Z",
+      "details": [
+        "Поля: order/ticket, все типы",
+        "Схема: Мегаспорт"
+      ]
+    },
+    "meta_complex_scheme:promocode": {
+      "target": "meta_complex_scheme:promocode",
+      "tab": "meta",
+      "scheme": "complex_scheme",
+      "setting": "promocode",
+      "title": "Мета / Со сложной схемой / Промокоды",
+      "entityName": "Виджет. meta_complex_scheme_promocode 1779114712079",
+      "metaEventId": "6a0b22d83ee57954522715dd",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b22d83ee57954522715dd&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b22d83ee57954522715dd",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b22d83ee57954522715dd\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22d83ee57954522715dd\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-complex-scheme-promocode.html"
+      },
+      "createdAt": "2026-05-18T14:32:23.198Z",
+      "details": [
+        "Промокод: METAWIDGET10712079",
+        "Скидка: 10%",
+        "Схема: Мегаспорт"
+      ]
+    },
+    "meta_complex_scheme:tariffs": {
+      "target": "meta_complex_scheme:tariffs",
+      "tab": "meta",
+      "scheme": "complex_scheme",
+      "setting": "tariffs",
+      "title": "Мета / Со сложной схемой / Тарифы",
+      "entityName": "Виджет. meta_complex_scheme_tariffs 1779114743354",
+      "metaEventId": "6a0b22f83ee57954522715ea",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b22f83ee57954522715ea&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b22f83ee57954522715ea",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b22f83ee57954522715ea\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22f83ee57954522715ea\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-complex-scheme-tariffs.html"
+      },
+      "createdAt": "2026-05-18T14:32:55.676Z",
+      "details": [
+        "Тарифы: Ранняя покупка -20% 743354, Специальный -300 743354, Премиум +500 743354",
+        "Схема: Мегаспорт"
+      ]
+    },
+    "meta_complex_scheme:multi_sessions": {
+      "target": "meta_complex_scheme:multi_sessions",
+      "tab": "meta",
+      "scheme": "complex_scheme",
+      "setting": "multi_sessions",
+      "title": "Мета / Со сложной схемой / Несколько сеансов",
+      "entityName": "Виджет. meta_complex_scheme_multi_sessions 1779116111873",
+      "metaEventId": "6a0b2850bf1e77aed42d30c6",
+      "widgetLink": "https://stage.freetc.net/v1/widgets/common/meta?token=eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs&lang=ru&meta_event=6a0b2850bf1e77aed42d30c6&s=1",
+      "installation": {
+        "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
+        "eventId": "6a0b2850bf1e77aed42d30c6",
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b2850bf1e77aed42d30c6\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2850bf1e77aed42d30c6\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/meta-complex-scheme-multi-sessions.html"
+      },
+      "createdAt": "2026-05-18T14:55:42.748Z",
+      "details": [
+        "Расписание: 1 день, 3 сеанса: 12:00, 16:00, 20:00",
+        "Схема: Мегаспорт"
+      ]
+    }
+  },
+  "targetOrder": [
+    "single_no_scheme:default",
+    "single_no_scheme:custom_fields",
+    "single_no_scheme:promocode",
+    "single_no_scheme:tariffs",
+    "single_scheme:default",
+    "single_scheme:custom_fields",
+    "single_scheme:promocode",
+    "single_scheme:tariffs",
+    "single_complex_scheme:default",
+    "single_complex_scheme:custom_fields",
+    "single_complex_scheme:promocode",
+    "single_complex_scheme:tariffs",
+    "meta_no_scheme:default",
+    "meta_no_scheme:custom_fields",
+    "meta_no_scheme:promocode",
+    "meta_no_scheme:tariffs",
+    "meta_no_scheme:multi_sessions",
+    "meta_scheme:default",
+    "meta_scheme:custom_fields",
+    "meta_scheme:promocode",
+    "meta_scheme:tariffs",
+    "meta_scheme:multi_sessions",
+    "meta_complex_scheme:default",
+    "meta_complex_scheme:custom_fields",
+    "meta_complex_scheme:promocode",
+    "meta_complex_scheme:tariffs",
+    "meta_complex_scheme:multi_sessions",
+    "stub:single_event_finished",
+    "stub:single_stop_sale",
+    "stub:single_waiting_sale",
+    "stub:single_sold_out",
+    "stub:single_work_on_server",
+    "stub:meta_event_finished",
+    "stub:meta_stop_sale",
+    "stub:meta_waiting_sale",
+    "stub:meta_sold_out",
+    "stub:meta_work_on_server"
+  ]
+}
