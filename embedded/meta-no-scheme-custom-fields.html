@@ -75,16 +75,31 @@
         <h1 class="embed-title">Мета / Без схемы / Дополнительные поля</h1>
         <div class="embed-subtitle">Виджет. meta_no_scheme_custom_fields 1779114493197</div>
       </header>
-      <section class="embed-widget">
-        <div data-tc-event-inline="6a0b21fdbf1e77aed42d3014" data-tc-token="eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs" data-tc-lang="ru" data-tc-meta="true"></div>
-      </section>
+      <section class="embed-widget" id="embed-widget"></section>
     </main>
     <script>
-      if (window.widgetBenchTheme === 'dark') {
+      const params = new URLSearchParams(window.location.search);
+      const useNewWidget = params.get('newWidget') === 'true';
+      const legacyInlineCode = "<div data-tc-event-inline=\"6a0b21fdbf1e77aed42d3014\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>";
+      const newInlineCode = "<tc-widget widget-id=\"6a0ee84f176844476cc62b37\"></tc-widget>";
+      const widgetRoot = document.getElementById('embed-widget');
+      const inlineCode = useNewWidget ? newInlineCode : legacyInlineCode;
+      if (inlineCode === '') {
+        widgetRoot.textContent = 'Новый виджет не сгенерирован для этого набора данных.';
+      } else {
+        widgetRoot.innerHTML = inlineCode;
+      }
+      if (!useNewWidget && window.widgetBenchTheme === 'dark') {
         const widgetElements = document.querySelectorAll('[data-tc-event-inline], [tc-event-inline]');
         widgetElements.forEach((element) => element.setAttribute('data-tc-theme', 'dark'));
       }
+      if (inlineCode !== '') {
+        const script = document.createElement('script');
+        script.src = useNewWidget
+          ? 'https://w.stage.freetc.net/w/injector.js'
+          : 'https://stage.freetc.net/static/scripts/widget/tcwidget.js';
+        document.body.appendChild(script);
+      }
     </script>
-    <script src="https://stage.freetc.net/static/scripts/widget/tcwidget.js"></script>
   </body>
 </html>

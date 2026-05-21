@@ -6,7 +6,7 @@
     "userPassword": "123123qQ!",
     "createdAt": "2026-05-18T06:32:06.296Z"
   },
-  "updatedAt": "2026-05-18T14:55:42.748Z",
+  "updatedAt": "2026-05-21T11:11:14.392Z",
   "widgets": {
     "stub:single_event_finished": {
       "target": "stub:single_event_finished",
@@ -21,7 +21,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b239d3ee5795452271606\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b239d3ee5795452271606\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-single-event-finished.html"
+        "embeddedPagePath": "./embedded/stub-single-event-finished.html",
+        "newWidget": {
+          "widgetId": "6a0ee7f7176844476cc62b1f",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee7f7176844476cc62b1f",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee7f7176844476cc62b1f\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee7f7176844476cc62b1f\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:11.914Z",
       "details": [
@@ -41,7 +47,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b23a03ee579545227160d\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23a03ee579545227160d\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-single-stop-sale.html"
+        "embeddedPagePath": "./embedded/stub-single-stop-sale.html",
+        "newWidget": {
+          "widgetId": "6a0ee7f7176844476cc62b20",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee7f7176844476cc62b20",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee7f7176844476cc62b20\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee7f7176844476cc62b20\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:14.651Z",
       "details": [
@@ -61,7 +73,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b23a33ee5795452271614\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23a33ee5795452271614\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-single-waiting-sale.html"
+        "embeddedPagePath": "./embedded/stub-single-waiting-sale.html",
+        "newWidget": {
+          "widgetId": "6a0ee7f7176844476cc62b21",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee7f7176844476cc62b21",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee7f7176844476cc62b21\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee7f7176844476cc62b21\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:16.938Z",
       "details": [
@@ -82,7 +100,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b23afbf1e77aed42d30a0\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23afbf1e77aed42d30a0\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-single-work-on-server.html"
+        "embeddedPagePath": "./embedded/stub-single-work-on-server.html",
+        "newWidget": {
+          "widgetId": "6a0ee7f7176844476cc62b22",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee7f7176844476cc62b22",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee7f7176844476cc62b22\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee7f7176844476cc62b22\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:28.654Z",
       "details": [
@@ -103,7 +127,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b23b27d0615edacb6f843\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23b27d0615edacb6f843\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-meta-event-finished.html"
+        "embeddedPagePath": "./embedded/stub-meta-event-finished.html",
+        "newWidget": {
+          "widgetId": "6a0ee7f7176844476cc62b23",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee7f7176844476cc62b23",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee7f7176844476cc62b23\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee7f7176844476cc62b23\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:32.814Z",
       "details": [
@@ -122,10 +152,16 @@
       "installation": {
         "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs",
         "eventId": "6a0b23b5bf1e77aed42d30ab",
-        "isMeta": false,
-        "inlineCode": "<div data-tc-event-inline=\"6a0b23b5bf1e77aed42d30ab\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
-        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23b5bf1e77aed42d30ab\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-meta-stop-sale.html"
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23b5bf1e77aed42d30ab\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23b5bf1e77aed42d30ab\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-meta-stop-sale.html",
+        "newWidget": {
+          "widgetId": "6a0ee84d176844476cc62b25",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84d176844476cc62b25",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84d176844476cc62b25\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84d176844476cc62b25\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:37.304Z",
       "details": [
@@ -145,7 +181,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b23bb7d0615edacb6f924\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23bb7d0615edacb6f924\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-meta-waiting-sale.html"
+        "embeddedPagePath": "./embedded/stub-meta-waiting-sale.html",
+        "newWidget": {
+          "widgetId": "6a0ee84d176844476cc62b26",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84d176844476cc62b26",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84d176844476cc62b26\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84d176844476cc62b26\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:41.071Z",
       "details": [
@@ -168,7 +210,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b23becf67649f2fb6f7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23becf67649f2fb6f7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-meta-sold-out.html"
+        "embeddedPagePath": "./embedded/stub-meta-sold-out.html",
+        "newWidget": {
+          "widgetId": "6a0ee84d176844476cc62b27",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84d176844476cc62b27",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84d176844476cc62b27\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84d176844476cc62b27\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:46.894Z",
       "details": [
@@ -187,10 +235,16 @@
       "installation": {
         "token": "eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx",
         "eventId": "6a0b23c3bf1e77aed42d30ba",
-        "isMeta": false,
-        "inlineCode": "<div data-tc-event-inline=\"6a0b23c3bf1e77aed42d30ba\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\"></div>",
-        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23c3bf1e77aed42d30ba\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-meta-work-on-server.html"
+        "isMeta": true,
+        "inlineCode": "<div data-tc-event-inline=\"6a0b23c3bf1e77aed42d30ba\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
+        "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23c3bf1e77aed42d30ba\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRx\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
+        "embeddedPagePath": "./embedded/stub-meta-work-on-server.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b28",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b28",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b28\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b28\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:51.619Z",
       "details": [
@@ -211,7 +265,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b23a53ee579545227161a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b23a53ee579545227161a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/stub-single-sold-out.html"
+        "embeddedPagePath": "./embedded/stub-single-sold-out.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b29",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b29",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b29\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b29\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:35:26.537Z",
       "details": [
@@ -233,7 +293,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b2197bf1e77aed42c9ba3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2197bf1e77aed42c9ba3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-no-scheme-default.html"
+        "embeddedPagePath": "./embedded/single-no-scheme-default.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b2a",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b2a",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b2a\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b2a\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:34.516Z",
       "details": [
@@ -255,7 +321,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b219bbf1e77aed42c9bb3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b219bbf1e77aed42c9bb3\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-no-scheme-custom-fields.html"
+        "embeddedPagePath": "./embedded/single-no-scheme-custom-fields.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b2b",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b2b",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b2b\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b2b\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:38.817Z",
       "details": [
@@ -278,7 +350,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b219fbf1e77aed42c9bdc\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b219fbf1e77aed42c9bdc\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-no-scheme-promocode.html"
+        "embeddedPagePath": "./embedded/single-no-scheme-promocode.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b2c",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b2c",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b2c\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b2c\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:42.497Z",
       "details": [
@@ -302,7 +380,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21a3bf1e77aed42c9bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21a3bf1e77aed42c9bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-no-scheme-tariffs.html"
+        "embeddedPagePath": "./embedded/single-no-scheme-tariffs.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b2d",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b2d",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b2d\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b2d\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:46.883Z",
       "details": [
@@ -325,7 +409,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21a7bf1e77aed42c9c08\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21a7bf1e77aed42c9c08\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-scheme-default.html"
+        "embeddedPagePath": "./embedded/single-scheme-default.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b2e",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b2e",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b2e\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b2e\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:49.499Z",
       "details": [
@@ -347,7 +437,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21aabf1e77aed42c9ce7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21aabf1e77aed42c9ce7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-scheme-custom-fields.html"
+        "embeddedPagePath": "./embedded/single-scheme-custom-fields.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b2f",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b2f",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b2f\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b2f\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:53.055Z",
       "details": [
@@ -370,7 +466,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21adbf1e77aed42c9ddf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21adbf1e77aed42c9ddf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-scheme-promocode.html"
+        "embeddedPagePath": "./embedded/single-scheme-promocode.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b30",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b30",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b30\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b30\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:55.860Z",
       "details": [
@@ -394,7 +496,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21b0bf1e77aed42c9ebf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21b0bf1e77aed42c9ebf\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-scheme-tariffs.html"
+        "embeddedPagePath": "./embedded/single-scheme-tariffs.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b31",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b31",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b31\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b31\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:26:59.828Z",
       "details": [
@@ -417,7 +525,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21b4bf1e77aed42c9fa9\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21b4bf1e77aed42c9fa9\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-complex-scheme-default.html"
+        "embeddedPagePath": "./embedded/single-complex-scheme-default.html",
+        "newWidget": {
+          "widgetId": "6a0ee84e176844476cc62b32",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84e176844476cc62b32",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84e176844476cc62b32\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84e176844476cc62b32\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:27:14.005Z",
       "details": [
@@ -439,7 +553,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21c2bf1e77aed42cc3b7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21c2bf1e77aed42cc3b7\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-complex-scheme-custom-fields.html"
+        "embeddedPagePath": "./embedded/single-complex-scheme-custom-fields.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b33",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b33",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b33\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b33\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:27:28.290Z",
       "details": [
@@ -462,7 +582,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21d1bf1e77aed42ce7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21d1bf1e77aed42ce7de\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-complex-scheme-promocode.html"
+        "embeddedPagePath": "./embedded/single-complex-scheme-promocode.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b34",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b34",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b34\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b34\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:27:43.070Z",
       "details": [
@@ -486,7 +612,13 @@
         "isMeta": false,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21dfbf1e77aed42d0bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21dfbf1e77aed42d0bed\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/single-complex-scheme-tariffs.html"
+        "embeddedPagePath": "./embedded/single-complex-scheme-tariffs.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b35",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b35",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b35\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b35\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:27:58.374Z",
       "details": [
@@ -509,7 +641,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21efbf1e77aed42d3006\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21efbf1e77aed42d3006\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-no-scheme-default.html"
+        "embeddedPagePath": "./embedded/meta-no-scheme-default.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b36",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b36",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b36\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b36\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:28:13.039Z",
       "details": [
@@ -532,7 +670,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b21fdbf1e77aed42d3014\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b21fdbf1e77aed42d3014\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-no-scheme-custom-fields.html"
+        "embeddedPagePath": "./embedded/meta-no-scheme-custom-fields.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b37",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b37",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b37\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b37\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:28:24.335Z",
       "details": [
@@ -555,7 +699,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b22093ee5795452271552\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22093ee5795452271552\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-no-scheme-promocode.html"
+        "embeddedPagePath": "./embedded/meta-no-scheme-promocode.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b38",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b38",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b38\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b38\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:28:32.687Z",
       "details": [
@@ -579,7 +729,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b2211bf1e77aed42d3037\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2211bf1e77aed42d3037\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-no-scheme-tariffs.html"
+        "embeddedPagePath": "./embedded/meta-no-scheme-tariffs.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b39",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b39",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b39\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b39\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:28:42.406Z",
       "details": [
@@ -602,7 +758,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b221bbf1e77aed42d3049\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b221bbf1e77aed42d3049\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-no-scheme-multi-sessions.html"
+        "embeddedPagePath": "./embedded/meta-no-scheme-multi-sessions.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b3a",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b3a",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b3a\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b3a\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:29:14.735Z",
       "details": [
@@ -625,7 +787,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b223bbf1e77aed42d305b\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b223bbf1e77aed42d305b\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-scheme-default.html"
+        "embeddedPagePath": "./embedded/meta-scheme-default.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b3b",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b3b",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b3b\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b3b\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:29:23.074Z",
       "details": [
@@ -648,7 +816,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b22433ee579545227156c\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22433ee579545227156c\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-scheme-custom-fields.html"
+        "embeddedPagePath": "./embedded/meta-scheme-custom-fields.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b3c",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b3c",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b3c\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b3c\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:29:32.341Z",
       "details": [
@@ -671,7 +845,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b224d3ee5795452271594\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b224d3ee5795452271594\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-scheme-promocode.html"
+        "embeddedPagePath": "./embedded/meta-scheme-promocode.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b3d",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b3d",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b3d\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b3d\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:29:47.290Z",
       "details": [
@@ -695,7 +875,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b225c3ee57954522715a2\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b225c3ee57954522715a2\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-scheme-tariffs.html"
+        "embeddedPagePath": "./embedded/meta-scheme-tariffs.html",
+        "newWidget": {
+          "widgetId": "6a0ee84f176844476cc62b3e",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee84f176844476cc62b3e",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee84f176844476cc62b3e\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee84f176844476cc62b3e\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:29:57.213Z",
       "details": [
@@ -718,7 +904,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b2265bf1e77aed42d306a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2265bf1e77aed42d306a\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-scheme-multi-sessions.html"
+        "embeddedPagePath": "./embedded/meta-scheme-multi-sessions.html",
+        "newWidget": {
+          "widgetId": "6a0ee850176844476cc62b3f",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee850176844476cc62b3f",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee850176844476cc62b3f\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee850176844476cc62b3f\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:30:38.383Z",
       "details": [
@@ -741,7 +933,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b228fbf1e77aed42d3078\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b228fbf1e77aed42d3078\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-complex-scheme-default.html"
+        "embeddedPagePath": "./embedded/meta-complex-scheme-default.html",
+        "newWidget": {
+          "widgetId": "6a0ee850176844476cc62b40",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee850176844476cc62b40",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee850176844476cc62b40\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee850176844476cc62b40\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:31:09.657Z",
       "details": [
@@ -764,7 +962,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b22aebf1e77aed42d3087\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22aebf1e77aed42d3087\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-complex-scheme-custom-fields.html"
+        "embeddedPagePath": "./embedded/meta-complex-scheme-custom-fields.html",
+        "newWidget": {
+          "widgetId": "6a0ee850176844476cc62b41",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee850176844476cc62b41",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee850176844476cc62b41\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee850176844476cc62b41\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:31:51.926Z",
       "details": [
@@ -787,7 +991,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b22d83ee57954522715dd\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22d83ee57954522715dd\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-complex-scheme-promocode.html"
+        "embeddedPagePath": "./embedded/meta-complex-scheme-promocode.html",
+        "newWidget": {
+          "widgetId": "6a0ee850176844476cc62b42",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee850176844476cc62b42",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee850176844476cc62b42\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee850176844476cc62b42\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:32:23.198Z",
       "details": [
@@ -811,7 +1021,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b22f83ee57954522715ea\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b22f83ee57954522715ea\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-complex-scheme-tariffs.html"
+        "embeddedPagePath": "./embedded/meta-complex-scheme-tariffs.html",
+        "newWidget": {
+          "widgetId": "6a0ee850176844476cc62b43",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee850176844476cc62b43",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee850176844476cc62b43\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee850176844476cc62b43\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:32:55.676Z",
       "details": [
@@ -834,7 +1050,13 @@
         "isMeta": true,
         "inlineCode": "<div data-tc-event-inline=\"6a0b2850bf1e77aed42d30c6\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\"></div>",
         "buttonCode": "<button type=\"button\" data-tc-event=\"6a0b2850bf1e77aed42d30c6\" data-tc-token=\"eyJhbGciOiJIUzI1NiIsImlzcyI6InN0YWdlLmZyZWV0Yy5uZXQiLCJ0eXAiOiJKV1QifQ.eyJwIjoiNmEwYWIyNjU0NjY4YTlmNDA5ZmMwY2Y4In0.BB1_cScUutGlNz04M8XlUWT9ZqISF3cBIDDX5z3GsRs\" data-tc-lang=\"ru\" data-tc-meta=\"true\">Купить билет</button>",
-        "embeddedPagePath": "./embedded/meta-complex-scheme-multi-sessions.html"
+        "embeddedPagePath": "./embedded/meta-complex-scheme-multi-sessions.html",
+        "newWidget": {
+          "widgetId": "6a0ee850176844476cc62b44",
+          "widgetLink": "https://w.stage.freetc.net/w/6a0ee850176844476cc62b44",
+          "inlineCode": "<tc-widget widget-id=\"6a0ee850176844476cc62b44\"></tc-widget>",
+          "buttonCode": "<tc-button widget-id=\"6a0ee850176844476cc62b44\">Купить билет</tc-button>"
+        }
       },
       "createdAt": "2026-05-18T14:55:42.748Z",
       "details": [
